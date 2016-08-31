@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HeroesTableViewController.h
 //  HeroTracker2
 //
 //  Created by Komari Herring on 8/30/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HeroesTableViewController : UITableViewController
 
 @end
-
